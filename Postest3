@@ -23,3 +23,15 @@ Contoh Input 1
 
 Contoh Output 1
 Tipe Ranking: Crab
+
+//Penjelasan
+Pemilik 2 Bitcoin termasuk dalam tipe ranking Crab karena berada di rentang 1 sampai kurang dari 10.
+
+Contoh Input 2
+4603
+
+Contoh Output 2
+Tipe Ranking: Whale
+
+//Penjelasan
+Pemilik 4603 Bitcoin termasuk dalam tipe ranking Crab karena berada di rentang 1000 sampai kurang dari 5000.
