@@ -6,3 +6,6 @@ Buatlah sebuah program untuk menentukan gaji seorang karyawan apakah dibawah UMR
 Format input
 Baris pertama berisi inputan gaji karyawan
 Baris kedua berisi inputan UMR daerah
+
+Format Output
+Satu baris berisi pernyataan apakah gaji yang diinputkan kurang dari atau setara atau diatas UMR
