@@ -9,3 +9,7 @@ Baris kedua berisi inputan UMR daerah
 
 Format Output
 Satu baris berisi pernyataan apakah gaji yang diinputkan kurang dari atau setara atau diatas UMR
+
+Contoh input
+2500000
+3000000
