@@ -3,12 +3,6 @@
 using namespace std;
 
 int main(){
-	
-	/*
-	NAMA  :  JIHAN HAYA MUFIALDO
-	NPM   :  2117051095
-    KELAS : B
-    */
     
     //TIPEDATA//
     float BTC;
