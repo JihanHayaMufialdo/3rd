@@ -1,0 +1,4 @@
+Buatlah sebuah program untuk menentukan gaji seorang karyawan apakah dibawah UMR atau tidak dengan kondisi sebagai berikut :
+- Nyatakan "Gaji anda dibawah UMR" Jika gaji yang diinputkan kurang dari UMR
+- Nyatakan "Gaji anda setara dengan UMR" Jika gaji yang diinputkan sama dengan UMR
+- Nyatakan "Gaji anda diatas UMR" jika gaji yang diinputkan lebih dari UMR
