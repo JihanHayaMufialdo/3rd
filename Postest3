@@ -1,1 +1,25 @@
+Sudah mengerti cara menghitung persentase penurunan/kenaikan harga Bitcoin pada sesi posttest kemarin, 
+sekarang kita mencoba untuk mengklasifikasikan tingkatan holder (pemiliki BTC) sesuai dengan banyaknya kepemilikan yang mereka miliki. 
+Input dari program ini adalah jumlah bitcoin dan output dari program ini adalah tipe ranking holder.
 
+//Tipe Ranking
+Shrimp: < 1 BTC (kurang dari 1 Bitcoin)
+Crab : 1 <= BTC < 10 (lebih dari sama dengan 1 dan kurang dari 10)
+Octopus: 10 <= BTC < 50 (lebih dari sama dengan 10 dan kurang dari 50)
+Fish: 50 <= BTC < 100 (lebih dari sama dengan 50 dan kurang dari 100)
+Dolphin: 100 <= BTC < 500 (lebih dari sama dengan 100 dan kurang dari 500)
+Shark: 500 <= BTC < 1000 (lebih dari sama dengan 500 dan kurang dari 1000)
+Whale: 1000 <= BTC < 5000 (lebih dari sama dengan 1000 dan kurang dari 5000)
+Humpback: >= 5000 (lebih dari atau sama dengan 5000)
+
+Format Input
+Baris pertama berisi jumlah Bitcoin
+
+Format Output
+Baris pertama berisi tipe ranking holder
+
+Contoh Input 1
+2
+
+Contoh Output 1
+Tipe Ranking: Crab
