@@ -1,14 +1,8 @@
  #include <iostream>
  #include <cmath>
  using namespace std;
- 
- /* 
- NAMA  : JIHAN HAYA MUFIALDO
- NPM   : 2117051095
- KELAS : B
- */
 
-int main (){
+ int main (){
 	
 	//TIPEDATA//
 	int a;
@@ -32,7 +26,7 @@ int main (){
 	cout << "UMR Daerah : " ; cin >> b;
 	
 	//kreasi
-    cout << ""             << endl;
+        cout << ""             << endl;
 	cout << "-------------" << endl;
 	cout << "KETERANGAN :" << endl;
 	cout << "-------------" << endl;
@@ -58,5 +52,4 @@ int main (){
 	
 	return 0;
 	
-}
- 
+ }
