@@ -2,3 +2,7 @@ Buatlah sebuah program untuk menentukan gaji seorang karyawan apakah dibawah UMR
 - Nyatakan "Gaji anda dibawah UMR" Jika gaji yang diinputkan kurang dari UMR
 - Nyatakan "Gaji anda setara dengan UMR" Jika gaji yang diinputkan sama dengan UMR
 - Nyatakan "Gaji anda diatas UMR" jika gaji yang diinputkan lebih dari UMR
+
+Format input
+Baris pertama berisi inputan gaji karyawan
+Baris kedua berisi inputan UMR daerah
