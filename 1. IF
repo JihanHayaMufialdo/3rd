@@ -33,4 +33,6 @@ int main()
   if(total>100000){
     cout << "Anda Berhak Mendapatkan Kupon Undian";
   }
+  
+  return 0;
 }
