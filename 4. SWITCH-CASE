@@ -28,6 +28,7 @@ switch(variabel){
 
 #include <iostream>
 using namespace std;
+
 int main()
 {
   char grade;
@@ -52,4 +53,6 @@ int main()
     default :
         cout << "GAGAL";
   }
+  
+  return 0;
 }
