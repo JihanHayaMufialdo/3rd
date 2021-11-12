@@ -18,6 +18,6 @@ int main (){
 	}
 	
 	if(d1!=0 && d2!=0){
-	cout << "Luas\t : " << (d1*d2)/2 << " m^2";
+	cout << "\nLuas\t : " << (d1*d2)/2 << " m^2";
 	}
 }
