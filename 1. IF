@@ -6,6 +6,18 @@ if(kondisi){
   //pernyataan
 }
 
+...atau bisa juga... 
+
+if(kondisi1 && kondisi2 && kondisi3){
+  //pernyataan
+}
+
+if(kondisi1 || kondisi2 || kondisi3){
+  //pernyataan
+}
+
+...dan lainnya...
+
 //CONTOH
 
 #include <iostream>
