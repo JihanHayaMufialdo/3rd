@@ -1,0 +1,18 @@
+Percabangan menggunakan opreator ternary merupakan bentuk lain dari percabangan if/else.
+
+Bisa dibilang:
+Bentuk singkatnya dari if/else.
+
+Operator ternary juga dikenal dengan sebutan operator kondisi (conditional operator).
+
+//BENTUK :
+
+kondisi ? pernyataan1 : pernyataan2 ;
+
+...
+pernyataan 1 dieksekusi jika kondisi bernilai true.
+pernyataan 2 dieksekusi jika kondisi bernilai false.
+...
+
+//CONTOH :
+
