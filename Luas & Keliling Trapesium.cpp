@@ -2,6 +2,7 @@
 using namespace std;
 
 int main (){
+	
 	float a,b,t,s;
 	
 	cout << "\n------- TRAPESIUM -------\n\n";
@@ -14,6 +15,9 @@ int main (){
 	cout << "sisi samping (m) : ";
 	cin  >> s;
 	
+	if(s!=0 && a!=0 && b!=0){
 	cout << "\nKeliling : " << 2*s+a+b << " m\n";
+	}
+	
 	cout << "Luas\t : " << ((a+b)*t)/2 << " m^2";
 }
