@@ -13,4 +13,19 @@ else{
 
 //CONTOH :
 
-
+#include <iostream>
+using namespace std;
+int main()
+{
+  int pw;
+  cin >> pw;
+  
+  //jika password yang dimasukkan merupakan 12345
+  
+  if(pw=12345){
+    cout << "PASSWORD BENAR";
+  }
+  else{
+    cout << "PASSWORD SALAH";
+  }
+}
