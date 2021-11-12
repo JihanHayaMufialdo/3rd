@@ -2,6 +2,8 @@ Percabangan switch/case adalah bentuk lain dari percabangan if/else/if.
 
 Kita dapat mermbuat blok kode (case) sebanyak yang diinginkan di dalam blok switch.
 
+Perintah break digunakan untuk menghentikan eksekusi switch apabila ada satu kondisi yang terpenuhi.
+
 //BENTUK :
 
 switch(variabel){
@@ -24,3 +26,30 @@ switch(variabel){
 
 //CONTOH :
 
+#include <iostream>
+using namespace std;
+int main()
+{
+  char grade;
+  cin >> grade;
+  
+  //jika password yang dimasukkan merupakan 12345
+  
+  switch(grade){
+    
+    case A :
+        cout << "SEMPUNA!";
+        break;
+    
+    case B :
+        cout << "SANGAT BAGUS!";
+        break;
+        
+    case C :
+        cout << "BAGUS!";
+        break;
+      
+    default :
+        cout << "GAGAL";
+  }
+}
