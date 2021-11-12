@@ -2,6 +2,7 @@
 using namespace std;
 
 int main (){
+	
 	float r;
 	float phi = 3.14;
 	
@@ -9,6 +10,8 @@ int main (){
 	cout << "jari-jari (m) : ";
 	cin  >> r; 
 	
+	if(r!=0){
 	cout << "\nKeliling : " << 2*phi*r << " m\n";
 	cout << "Luas\t : " << phi*r*r << " m^2";
+	}
 }
