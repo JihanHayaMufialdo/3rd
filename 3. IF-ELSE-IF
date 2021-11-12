@@ -23,7 +23,7 @@ int main()
   int nilai;
   cin >> nilai;
   
-  
+  //menentukan grade dari nilai yang dimasukkan
   
   if(nilai>=90){
     cout << "GRADE A";
