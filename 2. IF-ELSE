@@ -22,7 +22,7 @@ int main()
   
   //jika password yang dimasukkan merupakan 12345
   
-  if(pw=12345){
+  if(pw==12345){
     cout << "PASSWORD BENAR";
   }
   else{
