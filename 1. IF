@@ -1,0 +1,21 @@
+Percabangan if merupakan percabangan yang hanya memiliki satu blok pilihan saat kondisi bernilai benar.
+
+//BENTUK :
+
+if(kondisi){
+  //pernyataan
+}
+
+//CONTOH
+
+#include <iostream>
+using namespace std;
+int main()
+{
+  int jumlah;
+  cin >> total;
+  
+  if(total>=100.000){
+    cout << "Anda Berhak Mendapatkan Kupon Undian";
+  }
+}
