@@ -18,6 +18,7 @@ else if(kondisi3){
 
 #include <iostream>
 using namespace std;
+
 int main()
 {
   int nilai;
@@ -37,4 +38,7 @@ int main()
   else {
     cout << "GRADE D";
   }
+  
+  return 0;
+}
   
