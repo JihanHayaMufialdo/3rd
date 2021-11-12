@@ -22,6 +22,7 @@ if(kondisi1 || kondisi2 || kondisi3){
 
 #include <iostream>
 using namespace std;
+
 int main()
 {
   int jumlah;
