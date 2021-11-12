@@ -2,6 +2,7 @@
 using namespace std;
 
 int main (){
+	
 	float p,l;
 	
 	cout << "\n---- PERSEGI PANJANG ----\n\n";
@@ -10,6 +11,8 @@ int main (){
 	cout << "lebar (m)   : ";
 	cin  >> l;
 	
+	if(p!=0 && l!=0){
 	cout << "\nKeliling : " << 2*(p+l) << " m\n";
 	cout << "Luas\t : " << p*l << " m^2";
+	}
 }
