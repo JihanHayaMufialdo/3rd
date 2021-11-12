@@ -14,6 +14,9 @@ int main (){
 	cout << "sisi 2 (m) : ";
 	cin  >> s2;
 	
+	if(a!=0 && s1!=0 && s2!=0){
 	cout << "\nKeliling : " << a+s1+s2 << " m\n";
+	}
+	
 	cout << "Luas\t : " << (a*t)/2 << " m^2";
 }
