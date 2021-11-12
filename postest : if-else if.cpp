@@ -28,7 +28,7 @@ int main(){
     	cout << "Tipe Ranking    :  " << "CRAB"      << endl;
 	}
 
-    else if ( BTC>=10 && BTC<50 ){
+    	else if ( BTC>=10 && BTC<50 ){
     	cout << "Tipe Ranking    :  " << "OCTOPUS"   << endl;
 	}
 	
