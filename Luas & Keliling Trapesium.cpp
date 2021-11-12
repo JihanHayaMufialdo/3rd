@@ -19,5 +19,7 @@ int main (){
 	cout << "\nKeliling : " << 2*s+a+b << " m\n";
 	}
 	
+	if(a!=0 && b!=0 && t!=0){
 	cout << "Luas\t : " << ((a+b)*t)/2 << " m^2";
+	}
 }
