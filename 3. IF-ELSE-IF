@@ -16,3 +16,25 @@ else if(kondisi3){
 
 //CONTOH :
 
+#include <iostream>
+using namespace std;
+int main()
+{
+  int nilai;
+  cin >> nilai;
+  
+  
+  
+  if(nilai>=90){
+    cout << "GRADE A";
+  }
+  else if(nilai>=80){
+    cout << "GRADE B";
+  }
+  else if(nilai>=70){
+    cout << "GRADE C";
+  }
+  else {
+    cout << "GRADE D";
+  }
+  
