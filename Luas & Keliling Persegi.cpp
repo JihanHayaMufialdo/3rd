@@ -2,7 +2,8 @@
 using namespace std;
 
 int main (){
-	int s;
+	
+	float s;
 	
 	cout << "\n------ PERSEGI ------\n\n";
 	cout << "sisi (m) : ";
