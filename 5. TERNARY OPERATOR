@@ -24,7 +24,7 @@ int main(){
     int jawaban;
     string hasil;
 
-    cout << "Berapakah hasil 3+4?" << endl;
+    cout << "3+4 = ";
     cin >> jawaban;
 
     hasil = (jawaban == 7) ? "Benar" : "Salah";
