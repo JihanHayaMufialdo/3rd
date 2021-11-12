@@ -2,6 +2,7 @@
 using namespace std;
 
 int main (){
+	
 	float d1,d2,s1,s2;
 	
 	cout << "\n----- LAYANG-LAYANG -----\n\n";
@@ -14,6 +15,9 @@ int main (){
 	cout << "sisi 2 (m) : ";
 	cin  >> s2;
 	
+	if(s1!=0 && s2!=0){ 
 	cout << "\nKeliling : " << 2*(s1+s2) << " m\n";
+	}
+	
 	cout << "Luas\t : " << (d1*d2)/2 << " m^2";
 }
