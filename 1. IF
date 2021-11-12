@@ -15,7 +15,9 @@ int main()
   int jumlah;
   cin >> total;
   
-  if(total>=100.000){
+  //jika total belanja melebihi Rp.100.000 maka pembeli berhak mendapat kupon undian
+  
+  if(total>100000){
     cout << "Anda Berhak Mendapatkan Kupon Undian";
   }
 }
