@@ -1,0 +1,18 @@
+Percabangan if/else/if merupakan percabangan yang memiliki lebih dari dua blok pilihan.
+
+//BENTUK :
+
+if(kondisi1){
+  //pernyataan jika sesuai kondisi 1
+}
+else if(kondisi2){
+  //pernyataan jika sesuai kondisi 2
+}
+else if(kondisi3){
+  //pernyataan jika sesuai kondisi 3
+}
+
+...dan seterusnya...
+
+//CONTOH :
+
