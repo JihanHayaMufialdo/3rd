@@ -16,3 +16,20 @@ pernyataan 2 dieksekusi jika kondisi bernilai false.
 
 //CONTOH :
 
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    int jawaban;
+    string hasil;
+
+    cout << "Berapakah hasil 3+4?" << endl;
+    cin >> jawaban;
+
+    hasil = (jawaban == 7) ? "Benar" : "Salah";
+    
+    cout << "Jawaban anda: " << hasil << endl;
+
+    return 0;
+}
