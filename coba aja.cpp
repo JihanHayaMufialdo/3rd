@@ -17,6 +17,9 @@ int main(){
 	else if(a==1414){
 		cout << "NEGERI PARA BEDEBAH by Tere Liye";
 	}
+	else{
+		cout << "!! BUKU TIDAK DITEMUKAN !!";
+	}
 	
 		
 	
