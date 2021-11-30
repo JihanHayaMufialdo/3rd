@@ -11,4 +11,9 @@ int main(){
 	if(a==1212){
 		cout << "KATA by Rintik Sedu";
 	}
+	else if(a==1313){
+		cout << "TENTANG KAMU by Tere Liye";
+	}
+	else if(a==1414){
+		
 	
