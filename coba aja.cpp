@@ -15,5 +15,8 @@ int main(){
 		cout << "TENTANG KAMU by Tere Liye";
 	}
 	else if(a==1414){
+		cout << "NEGERI PARA BEDEBAH by Tere Liye";
+	}
+	
 		
 	
