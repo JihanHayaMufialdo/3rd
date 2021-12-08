@@ -4,6 +4,7 @@ Kita dapat mermbuat blok kode (case) sebanyak yang diinginkan di dalam blok swit
 
 Perintah break digunakan untuk menghentikan eksekusi switch apabila ada satu kondisi yang terpenuhi.
 
+
 //BENTUK :
 
 switch(variabel){
@@ -23,6 +24,7 @@ switch(variabel){
     default :
     //pernyataan
 }
+
 
 //CONTOH :
 
