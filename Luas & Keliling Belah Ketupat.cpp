@@ -13,11 +13,5 @@ int main (){
 	cout << "diagonal 2 (m) : ";
 	cin  >> d2;
 	
-	if(s!=0){
-	cout << "\nKeliling : " << 4*s<< " m\n";
-	}
 	
-	if(d1!=0 && d2!=0){
-	cout << "\nLuas\t : " << (d1*d2)/2 << " m^2";
-	}
 }
