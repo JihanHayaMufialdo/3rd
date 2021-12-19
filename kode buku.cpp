@@ -2,8 +2,6 @@
 using namespace std;
 int main(){
 	
-	//kode buku
-	
 	int a[3] = {1111,2222,3333};
 	
 	cout << "masukkan kode buku : ";
