@@ -4,7 +4,7 @@ int main(){
 	
 	//kode buku
 	
-	int a[3] = {1111,1313,1414};
+	int a[3] = {1111,2222,1414};
 	
 	cout << "masukkan kode buku : ";
 	cin >> a[3];
@@ -13,7 +13,7 @@ int main(){
 	if(a[3]==1111){
 		cout << "KATA by Rintik Sedu";
 	}
-	else if(a[3]==1313){
+	else if(a[3]==2222){
 		cout << "TENTANG KAMU by Tere Liye";
 	}
 	else if(a[3]==1414){
