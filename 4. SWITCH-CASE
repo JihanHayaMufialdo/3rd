@@ -9,7 +9,9 @@ Perintah break digunakan untuk menghentikan eksekusi switch apabila ada satu kon
 
 switch(variabel){
     
-    
+    case kondisi1 :
+    //pernyataan
+    break;
     
     case kondisi2 :
     //pernyataan
