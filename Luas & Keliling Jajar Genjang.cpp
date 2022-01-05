@@ -3,7 +3,7 @@ using namespace std;
 
 int main (){
 	
-	float a,t,s;
+	
 	
 	cout << "\n----- JAJAR GENJANG -----\n\n";
 	cout << "alas (m)         : ";
